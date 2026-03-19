@@ -1,0 +1,110 @@
+[
+  {
+    "id": "A_65605290",
+    "question": "Investigate the geopolitical context, policy responses, and key actors relevant to this research brief.",
+    "owner": "qual",
+    "priority": "high",
+    "difficulty": "complex",
+    "status": "done",
+    "created_by": "planner",
+    "note": "",
+    "created_at": "2026-03-19T05:03:31",
+    "updated_at": "2026-03-19T05:04:04"
+  },
+  {
+    "id": "A_69af47e6",
+    "question": "Fetch market and economic data, produce charts, and quantify the financial and statistical claims.",
+    "owner": "quant",
+    "priority": "high",
+    "difficulty": "simple",
+    "status": "done",
+    "created_by": "planner",
+    "note": "",
+    "created_at": "2026-03-19T05:03:31",
+    "updated_at": "2026-03-19T05:05:26"
+  },
+  {
+    "id": "A_45f2c508",
+    "question": "What are current default rates in direct lending as of Q1 2025?",
+    "owner": "quant",
+    "priority": "high",
+    "difficulty": "complex",
+    "status": "done",
+    "created_by": "qual_builder",
+    "note": "High relevance to private credit stability.",
+    "created_at": "2026-03-19T05:04:04",
+    "updated_at": "2026-03-19T05:06:57"
+  },
+  {
+    "id": "A_5a09966b",
+    "question": "What are the latest SEC/FSB/IOSCO regulatory developments on private credit systemic risk in 2025?",
+    "owner": "qual",
+    "priority": "high",
+    "difficulty": "complex",
+    "status": "open",
+    "created_by": "quant_builder",
+    "note": "Brief mentions regulatory scrutiny\u2014need primary source documents and timeline",
+    "created_at": "2026-03-19T05:05:26",
+    "updated_at": "2026-03-19T05:05:26"
+  },
+  {
+    "id": "A_31f534f0",
+    "question": "What are Ares, Blue Owl, Blackstone Credit's AUM and recent fundraising updates (Q1 2025)?",
+    "owner": "qual",
+    "priority": "high",
+    "difficulty": "simple",
+    "status": "open",
+    "created_by": "quant_builder",
+    "note": "Key manager data needed for competitive analysis section",
+    "created_at": "2026-03-19T05:05:26",
+    "updated_at": "2026-03-19T05:05:26"
+  },
+  {
+    "id": "A_7fa378e3",
+    "question": "Have any major direct lending defaults or portfolio downgrades been announced in 2025?",
+    "owner": "qual",
+    "priority": "high",
+    "difficulty": "simple",
+    "status": "open",
+    "created_by": "quant_builder",
+    "note": "Evidence for 'notable failures and distressed situations' in brief",
+    "created_at": "2026-03-19T05:05:26",
+    "updated_at": "2026-03-19T05:05:26"
+  },
+  {
+    "id": "A_5ba0a608",
+    "question": "Obtain Q1 2025 10-Q filings from top BDC managers (Ares, Blue Owl, Golub, Blackstone Credit) to extract actual non-accrual loan percentages and loss provisions",
+    "owner": "qual",
+    "priority": "high",
+    "difficulty": "simple",
+    "status": "open",
+    "created_by": "quant_builder",
+    "note": "SEC EDGAR will have filings; BDC portfolio metrics (% on non-accrual, ratio to total portfolio) are standard disclosures due by May 15, 2025",
+    "created_at": "2026-03-19T05:06:57",
+    "updated_at": "2026-03-19T05:06:57"
+  },
+  {
+    "id": "A_95eb234d",
+    "question": "Cross-check loan repayment signals against YTD sponsor earnings calls, covenant waiver announcements, and portfolio company press releases",
+    "owner": "qual",
+    "priority": "high",
+    "difficulty": "complex",
+    "status": "open",
+    "created_by": "quant_builder",
+    "note": "Private credit stress often emerges in earnings calls 30\u201360 days before formal default disclosures",
+    "created_at": "2026-03-19T05:06:57",
+    "updated_at": "2026-03-19T05:06:57"
+  },
+  {
+    "id": "A_6d50bc76",
+    "question": "If specific borrower cohort stress identified, pull sector-specific credit indices (e.g., tech leverage loans, healthcare sponsored debt) to quantify market impact",
+    "owner": "quant",
+    "priority": "medium",
+    "difficulty": "simple",
+    "status": "open",
+    "created_by": "quant_builder",
+    "note": "LCD, S&P, Moody's publish sector-level leverage loan indices; can correlate with manager exposure if obtained from qual partner",
+    "created_at": "2026-03-19T05:06:57",
+    "updated_at": "2026-03-19T05:06:57"
+  }
+]

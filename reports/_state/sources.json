@@ -1,0 +1,67 @@
+[
+  {
+    "id": "SRC_08e79434",
+    "title": "HYG ETF (iShares High Yield Corp Bond)",
+    "url": "https://finance.yahoo.com/quote/HYG",
+    "tier": "dataset",
+    "publisher": "Yahoo Finance / iShares",
+    "published_at": "",
+    "summary": "High-yield corporate bond ETF price series, 2023-2026, proxy for private credit spread environment.",
+    "source_type": "dataset",
+    "agent_role": "quant_builder",
+    "report_path": "/tmp/projects/private-credit-run38/reports/20260319_050526_quant_builder_turn01.md",
+    "created_at": "2026-03-19T05:05:26"
+  },
+  {
+    "id": "SRC_49650261",
+    "title": "LQD ETF (iShares Investment Grade Corp Bond)",
+    "url": "https://finance.yahoo.com/quote/LQD",
+    "tier": "dataset",
+    "publisher": "Yahoo Finance / iShares",
+    "published_at": "",
+    "summary": "Investment-grade corporate bond ETF, used to measure HY spread widening vs baseline.",
+    "source_type": "dataset",
+    "agent_role": "quant_builder",
+    "report_path": "/tmp/projects/private-credit-run38/reports/20260319_050526_quant_builder_turn01.md",
+    "created_at": "2026-03-19T05:05:26"
+  },
+  {
+    "id": "SRC_03ed12b9",
+    "title": "VIX Index (CBOE Volatility Index)",
+    "url": "https://finance.yahoo.com/quote/^VIX",
+    "tier": "dataset",
+    "publisher": "Yahoo Finance / CBOE",
+    "published_at": "",
+    "summary": "Equity volatility index, inverted correlation with credit spreads, 2023-2026.",
+    "source_type": "dataset",
+    "agent_role": "quant_builder",
+    "report_path": "/tmp/projects/private-credit-run38/reports/20260319_050526_quant_builder_turn01.md",
+    "created_at": "2026-03-19T05:05:26"
+  },
+  {
+    "id": "SRC_3965e696",
+    "title": "SPY ETF (SPDR S&P 500)",
+    "url": "https://finance.yahoo.com/quote/SPY",
+    "tier": "dataset",
+    "publisher": "Yahoo Finance",
+    "published_at": "",
+    "summary": "S&P 500 equity benchmark, used for performance divergence comparison.",
+    "source_type": "dataset",
+    "agent_role": "quant_builder",
+    "report_path": "/tmp/projects/private-credit-run38/reports/20260319_050526_quant_builder_turn01.md",
+    "created_at": "2026-03-19T05:05:26"
+  },
+  {
+    "id": "SRC_895dcb7b",
+    "title": "VIX (CBOE Volatility Index)",
+    "url": "https://finance.yahoo.com/quote/%5EVIX",
+    "tier": "dataset",
+    "publisher": "Yahoo Finance / CBOE",
+    "published_at": "",
+    "summary": "Daily market risk sentiment indicator; elevated levels correlate with credit stress events",
+    "source_type": "dataset",
+    "agent_role": "quant_builder",
+    "report_path": "/tmp/projects/private-credit-run38/reports/20260319_050657_quant_builder_turn02.md",
+    "created_at": "2026-03-19T05:06:57"
+  }
+]

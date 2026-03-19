@@ -1,0 +1,27 @@
+{
+  "run_id": "private-credit-run38-20260319_050801",
+  "project_name": "private-credit-run38",
+  "project_dir": "/tmp/projects/private-credit-run38",
+  "mode": "prelim",
+  "status": "approved",
+  "requires_approval": false,
+  "verifier_verdict": "PASS",
+  "report_path": "/tmp/projects/private-credit-run38/reports/20260319_050800_reporter_executive_summary.md",
+  "notebook_path": "/tmp/projects/private-credit-run38/reports/20260319_050800_reporter_executive_summary.ipynb",
+  "pdf_path": null,
+  "qa_report_path": "",
+  "outputs": [
+    "/tmp/projects/private-credit-run38/reports/20260319_050659_qual_builder_consolidated.md",
+    "/tmp/projects/private-credit-run38/reports/20260319_050659_quant_builder_consolidated.md",
+    "/tmp/projects/private-credit-run38/reports/20260319_050659_session_dialogue.md",
+    "/tmp/projects/private-credit-run38/reports/20260319_050659_verifier_verification_report.md",
+    "/tmp/projects/private-credit-run38/reports/20260319_050800_reporter_executive_summary.md",
+    "/tmp/projects/private-credit-run38/reports/20260319_050800_reporter_executive_summary.ipynb"
+  ],
+  "summary": "Prelim run for private-credit-run38 passed verification with 3 chart(s) and 3 collaboration message(s).",
+  "notes": "",
+  "created_at": "2026-03-19T05:08:01",
+  "updated_at": "2026-03-19T05:08:01",
+  "approved_at": "2026-03-19T05:08:01",
+  "approved_by": "system"
+}

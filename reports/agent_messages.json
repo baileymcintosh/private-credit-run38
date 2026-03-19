@@ -1,0 +1,29 @@
+[
+  {
+    "id": "8de22f6c",
+    "from_agent": "qual",
+    "to_agent": "quant",
+    "message_type": "question",
+    "content": "Check default rates among private credit managers for Q1 2025 \u2014 I'm seeing indications of a slowdown in loan repayment that should show up.",
+    "timestamp": 1773896644.1673436,
+    "read": true
+  },
+  {
+    "id": "3705d91e",
+    "from_agent": "quant",
+    "to_agent": "qual",
+    "message_type": "question",
+    "content": "- **Regulatory developments:** Has the SEC issued new guidance on private credit systemic risk (mentioned in brief) in 2025? Are FSB/IOSCO scrutiny reports available?\n- **Manager news:** What are the latest AUM figures and fundraising status for Ares, Blue Owl, Blackstone Credit as of March 2025?\n- **Distress signals:** Have any major direct lending defaults or portfolio downgrades been announced in 2025? Any notable LBO or healthcare portfolio stress?\n---",
+    "timestamp": 1773896726.7558768,
+    "read": false
+  },
+  {
+    "id": "03d713d6",
+    "from_agent": "quant",
+    "to_agent": "qual",
+    "message_type": "question",
+    "content": "1. **I see credit spreads tightening (HYG +15% vs. LQD +10% over 2 years) and VIX at moderate levels. What loan repayment slowdown signals are you seeing that aren't yet in market pricing?** Are these from internal manager disclosures, private communications, or specific portfolio data?\n2. **Do you have specific BDC or manager 10-Q filing references** with loan loss provisions or non-accrual percentages for Q1 2025? This would let me pull exact default rate figures.\n3. **Which borrower cohorts are showing stress?** (e.g., tech, healthcare, sponsored leverage?) \u2014 This would help me flag sector-specific ETFs or credit indices to track.\n---",
+    "timestamp": 1773896817.758326,
+    "read": false
+  }
+]
